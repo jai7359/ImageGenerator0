@@ -1,4 +1,5 @@
 # Image Generation Website using Hugging Face API
+![image](https://github.com/user-attachments/assets/b2cb14e6-a36a-490d-8beb-bcdb6e447df9)
 
 This project is a simple website that allows users to generate images using the Hugging Face Inference API. It's built with HTML, CSS, and JavaScript, and provides a user-friendly interface to generate and download images.
 
